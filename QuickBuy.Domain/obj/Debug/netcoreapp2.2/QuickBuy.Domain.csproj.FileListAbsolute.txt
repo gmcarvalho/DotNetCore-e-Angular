@@ -1,0 +1,8 @@
+D:\dotnet\QuickBuy\QuickBuy\QuickBuy.Domain\bin\Debug\netcoreapp2.2\QuickBuy.Domain.deps.json
+D:\dotnet\QuickBuy\QuickBuy\QuickBuy.Domain\bin\Debug\netcoreapp2.2\QuickBuy.Domain.dll
+D:\dotnet\QuickBuy\QuickBuy\QuickBuy.Domain\bin\Debug\netcoreapp2.2\QuickBuy.Domain.pdb
+D:\dotnet\QuickBuy\QuickBuy\QuickBuy.Domain\obj\Debug\netcoreapp2.2\QuickBuy.Domain.csproj.CoreCompileInputs.cache
+D:\dotnet\QuickBuy\QuickBuy\QuickBuy.Domain\obj\Debug\netcoreapp2.2\QuickBuy.Domain.AssemblyInfoInputs.cache
+D:\dotnet\QuickBuy\QuickBuy\QuickBuy.Domain\obj\Debug\netcoreapp2.2\QuickBuy.Domain.AssemblyInfo.cs
+D:\dotnet\QuickBuy\QuickBuy\QuickBuy.Domain\obj\Debug\netcoreapp2.2\QuickBuy.Domain.dll
+D:\dotnet\QuickBuy\QuickBuy\QuickBuy.Domain\obj\Debug\netcoreapp2.2\QuickBuy.Domain.pdb

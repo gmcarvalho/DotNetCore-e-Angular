@@ -1,0 +1,9 @@
+D:\dotnet\QuickBuy\QuickBuy\QuickBuy.Repository\bin\Debug\netcoreapp2.2\QuickBuy.Repository.deps.json
+D:\dotnet\QuickBuy\QuickBuy\QuickBuy.Repository\bin\Debug\netcoreapp2.2\QuickBuy.Repository.dll
+D:\dotnet\QuickBuy\QuickBuy\QuickBuy.Repository\bin\Debug\netcoreapp2.2\QuickBuy.Repository.pdb
+D:\dotnet\QuickBuy\QuickBuy\QuickBuy.Repository\obj\Debug\netcoreapp2.2\QuickBuy.Repository.csprojAssemblyReference.cache
+D:\dotnet\QuickBuy\QuickBuy\QuickBuy.Repository\obj\Debug\netcoreapp2.2\QuickBuy.Repository.csproj.CoreCompileInputs.cache
+D:\dotnet\QuickBuy\QuickBuy\QuickBuy.Repository\obj\Debug\netcoreapp2.2\QuickBuy.Repository.AssemblyInfoInputs.cache
+D:\dotnet\QuickBuy\QuickBuy\QuickBuy.Repository\obj\Debug\netcoreapp2.2\QuickBuy.Repository.AssemblyInfo.cs
+D:\dotnet\QuickBuy\QuickBuy\QuickBuy.Repository\obj\Debug\netcoreapp2.2\QuickBuy.Repository.dll
+D:\dotnet\QuickBuy\QuickBuy\QuickBuy.Repository\obj\Debug\netcoreapp2.2\QuickBuy.Repository.pdb

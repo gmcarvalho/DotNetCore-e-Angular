@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\dotnet\\QuickBuy\\QuickBuy\\QuickBuy.Repository\\QuickBuy.Repository.csproj": {}
+  },
+  "projects": {
+    "D:\\dotnet\\QuickBuy\\QuickBuy\\QuickBuy.Domain\\QuickBuy.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dotnet\\QuickBuy\\QuickBuy\\QuickBuy.Domain\\QuickBuy.Domain.csproj",
+        "projectName": "QuickBuy.Domain",
+        "projectPath": "D:\\dotnet\\QuickBuy\\QuickBuy\\QuickBuy.Domain\\QuickBuy.Domain.csproj",
+        "packagesPath": "C:\\Users\\gabriela.carvalho\\.nuget\\packages\\",
+        "outputPath": "D:\\dotnet\\QuickBuy\\QuickBuy\\QuickBuy.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gabriela.carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\dotnet\\QuickBuy\\QuickBuy\\QuickBuy.Repository\\QuickBuy.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dotnet\\QuickBuy\\QuickBuy\\QuickBuy.Repository\\QuickBuy.Repository.csproj",
+        "projectName": "QuickBuy.Repository",
+        "projectPath": "D:\\dotnet\\QuickBuy\\QuickBuy\\QuickBuy.Repository\\QuickBuy.Repository.csproj",
+        "packagesPath": "C:\\Users\\gabriela.carvalho\\.nuget\\packages\\",
+        "outputPath": "D:\\dotnet\\QuickBuy\\QuickBuy\\QuickBuy.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gabriela.carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\dotnet\\QuickBuy\\QuickBuy\\QuickBuy.Domain\\QuickBuy.Domain.csproj": {
+                "projectPath": "D:\\dotnet\\QuickBuy\\QuickBuy\\QuickBuy.Domain\\QuickBuy.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
